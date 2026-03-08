@@ -22,7 +22,7 @@ export const profile = {
 export const stats = [
   { value: 3, suffix: '+', label: 'Research tracks' },
   { value: 3, suffix: '', label: 'Academic papers' },
-  { value: 14, suffix: '', label: 'Kaggle courses' },
+  { value: 14, suffix: '', label: 'complete courses' },
   { value: 2, suffix: '', label: 'Development Work' }
 ];
 
