@@ -36,7 +36,6 @@ export default function HomePage() {
 
             {/* Name + Designation */}
             <div className="hero-identity">
-              <span className="eyebrow">CSE Graduate &bull; Researcher &bull; ML Engineer</span>
               <h1 className="hero-name">{profile.name}</h1>
               <p className="hero-designation">{profile.role}</p>
             </div>
@@ -212,7 +211,7 @@ export default function HomePage() {
           <span className="section-kicker">Selected work</span>
           <h2>Research projects, public-health analytics, and software systems.</h2>
           <p>
-            Intentionally mixed — showing depth in AI research, breadth in software development, and the ability to frame models around real-world use.
+            Intentionally mixed - showing depth in AI research, breadth in software development, and the ability to frame models around real-world use.
           </p>
         </div>
         <ProjectFilters projects={projects} />
