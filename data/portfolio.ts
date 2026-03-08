@@ -1,7 +1,7 @@
 export const profile = {
   name: 'Md. Wadud Mahmud Joy',
   shortName: 'Joy',
-  role: 'CSE Graduate Candidate • AI Researcher • ML Engineer',
+  role: 'CSE Graduate Candidate • Researcher • ML Engineer',
   tagline:
     'I build applied AI systems that are measurable, explainable, and ready for real-world evaluation.',
   location: 'Dhaka, Bangladesh',
